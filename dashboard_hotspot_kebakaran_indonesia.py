@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """Siaga Api — Dashboard Analisis Hotspot Kebakaran Indonesia.
 
-Run with:
-    pip install -r requirements_hotspot.txt
-    streamlit run dashboard_hotspot_kebakaran_indonesia.py
-
 The built-in dataset is synthetic demo data. For operational analysis, load a CSV
 from NASA FIRMS or query the FIRMS Area API with your personal MAP_KEY.
 """
